@@ -29,6 +29,10 @@ body {
     font-weight: 700;
 }
 
+.mc_embed_signup {
+    text-align: center;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
